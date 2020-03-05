@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class ScannerExerecise {
+
+	public static void main(String[] args) {
+
+		Scanner scan = new Scanner(System.in);
+
+		System.out.println("Enter the number:");
+		int no = scan.nextInt();
+
+		System.out.println("Entered no is=>" + no);
+
+	}
+
+}

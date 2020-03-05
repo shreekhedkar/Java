@@ -1,0 +1,4 @@
+Avg No.of words per sentence:4.67
+Avg No.of characters per sentence:16.33
+Longest Word:testing
+Most Frequent Word:This
