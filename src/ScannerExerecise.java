@@ -6,10 +6,15 @@ public class ScannerExerecise {
 
 		Scanner scan = new Scanner(System.in);
 
-		System.out.println("Enter the number:");
-		int no = scan.nextInt();
+		System.out.println("Enter first number:");
+		int no1 = scan.nextInt();
 
-		System.out.println("Entered no is=>" + no);
+		System.out.println("Enter second number:");
+		int no2 = scan.nextInt();
+
+		int result = no1 + no2;
+		System.out.println("Addition is :" + result);
+		// System.out.println("Entered no is=>" + no);
 
 	}
 

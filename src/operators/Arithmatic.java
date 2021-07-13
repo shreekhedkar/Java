@@ -7,18 +7,19 @@ public class Arithmatic {
 		int a = 10;
 		int b = 20;
 
+		// + ,- ,*,/,%
 		int c = a + b;
-		System.out.println(c); // 30
+		System.out.println(c); //
 
 		int d = a - b;
-		System.out.println(d); // -10
+		System.out.println(d); //
 		int e = a * b;
-		System.out.println(e); // 200
+		System.out.println(e); //
 
 		int f = a / b;
-		System.out.println(f); // 0
+		System.out.println(f); //
 
-		int g = a % b; // 10
+		int g = a % b; // 5%2 = 1
 		System.out.println(g);
 
 		System.out.println("Addition is:" + c);

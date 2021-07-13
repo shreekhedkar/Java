@@ -1,18 +1,4 @@
-[
-	{
-		"name": "abc",
-		"age": 10
-	},
-	{
-		"name": "xyz",
-		"age": 20
-	},
-	{
-		"name": "pqr",
-		"age": 30
-	},
-	{
-		"name": "lmn",
-		"age": 40
-	}
-]
+{
+	"name": "abc",
+	"age": 10
+}
